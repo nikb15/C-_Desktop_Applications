@@ -1,0 +1,137 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EmployeeManager.WinUI/1.0.0": {
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0",
+          "EmployeeManager.DataAccess": "1.0.0",
+          "EmployeeManager.ViewModel": "1.0.0",
+          "Microsoft.ProjectReunion": "0.5.6",
+          "Microsoft.ProjectReunion.Foundation": "0.5.6",
+          "Microsoft.ProjectReunion.WinUI": "0.5.6",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.18362.16"
+        },
+        "runtime": {
+          "EmployeeManager.WinUI.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.16": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.18362.10",
+            "fileVersion": "10.0.18362.16"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.2.35031"
+          }
+        }
+      },
+      "Microsoft.ProjectReunion/0.5.6": {
+        "dependencies": {
+          "Microsoft.ProjectReunion.DWrite": "0.5.6",
+          "Microsoft.ProjectReunion.Foundation": "0.5.6",
+          "Microsoft.ProjectReunion.WinUI": "0.5.6"
+        }
+      },
+      "Microsoft.ProjectReunion.DWrite/0.5.6": {},
+      "Microsoft.ProjectReunion.Foundation/0.5.6": {
+        "runtime": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ProjectReunion.WinUI/0.5.6": {
+        "runtime": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.2104"
+          }
+        }
+      },
+      "EmployeeManager.Common/1.0.0": {
+        "runtime": {
+          "EmployeeManager.Common.dll": {}
+        }
+      },
+      "EmployeeManager.DataAccess/1.0.0": {
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManager.DataAccess.dll": {}
+        }
+      },
+      "EmployeeManager.ViewModel/1.0.0": {
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManager.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManager.WinUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.16": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ProjectReunion/0.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eBzbxc5YP7TPt36MsFJM6xQVo/djZw5CxVYJL4RT08W2hS5l5eM+Fb2ClZSLGkeUgtRWgKgFJsrUpl85bmAaZw==",
+      "path": "microsoft.projectreunion/0.5.6",
+      "hashPath": "microsoft.projectreunion.0.5.6.nupkg.sha512"
+    },
+    "Microsoft.ProjectReunion.DWrite/0.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gFwTCimPnxGK6ZKLHNxlNW2Vdls6hNoRDoN2RBlXgHiy3eJ2gcmPmEbGoxTsaTXPb+12ulqNcod96S6UbToObw==",
+      "path": "microsoft.projectreunion.dwrite/0.5.6",
+      "hashPath": "microsoft.projectreunion.dwrite.0.5.6.nupkg.sha512"
+    },
+    "Microsoft.ProjectReunion.Foundation/0.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GhkeRXkwk95TSx4t4gnTTSc5VXBzgLLLxzknODzlSwZEs4D7mjeSoMaX0iFDC4/DHuUf2Y1U2JNo00eZ+Cj1Sg==",
+      "path": "microsoft.projectreunion.foundation/0.5.6",
+      "hashPath": "microsoft.projectreunion.foundation.0.5.6.nupkg.sha512"
+    },
+    "Microsoft.ProjectReunion.WinUI/0.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/wmAeLNIkCwrAzp412IlF7QDsWU/VFElUP7D7Msk81aLbO2gar68cyh6/cthZ9PykQE2THMHGecUP1PrCjk/Bw==",
+      "path": "microsoft.projectreunion.winui/0.5.6",
+      "hashPath": "microsoft.projectreunion.winui.0.5.6.nupkg.sha512"
+    },
+    "EmployeeManager.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManager.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManager.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

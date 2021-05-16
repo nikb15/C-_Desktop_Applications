@@ -1,0 +1,47 @@
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\App.xbf
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\MainWindow.xbf
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.exe
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.pdb
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\WinRT.Runtime.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.WinUI.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Internal.FrameworkUdk.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ui.xaml.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\resources.pri
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxManifest.xml
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI (Package).build.appxrecipe
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.Internal.FrameworkUdk.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.ui.xaml.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapprojAssemblyReference.cache
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CoreCompileInputs.cache
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CopyComplete
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI.pri.xml
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\ProjectArchitectures.txt
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Images\logo.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Control\HeaderControl.xbf
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.pdb
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.pdb
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.pdb

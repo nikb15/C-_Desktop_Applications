@@ -1,0 +1,32 @@
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxContent\Microsoft.Internal.FrameworkUdk.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxContent\Microsoft.ui.xaml.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\Control\HeaderControl.xbf
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\Images\logo.png
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\SplashScreen.scale-200.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\LockScreenLogo.scale-200.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\Square150x150Logo.scale-200.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\Square44x44Logo.scale-200.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\StoreLogo.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\Images\Wide310x150Logo.scale-200.png
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\resources.pri
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\Msix\EmployeeManager.WinUI.deps.json
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.runtimeconfig.json
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.pdb
+C:\Users\nikki\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.18362.16\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\nikki\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.18362.16\lib\WinRT.Runtime.dll
+C:\Users\nikki\.nuget\packages\microsoft.projectreunion.foundation\0.5.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\nikki\.nuget\packages\microsoft.projectreunion.winui\0.5.6\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\AppxContent\Microsoft.Internal.FrameworkUdk.dll
+D:\LTI_Courses\C_#_Windows_Application\WINUI_APPLICATION\demos\before\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\AppxContent\Microsoft.ui.xaml.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOi3oAOM1GqIly2bU4yT+NlyOCzq8gPC5Iim/DQJZu4ygAHzRJpnqGe0VFjc5ZSSVT4OJ5yM8+cFSk8nuvUUig==",
+  "success": true,
+  "projectFilePath": "D:\\LTI_Courses\\C_#_Windows_Application\\WINUI_APPLICATION\\demos\\before\\EmployeeManager.WinUI\\EmployeeManager.WinUI (Package)\\EmployeeManager.WinUI (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikki\\.nuget\\packages\\microsoft.projectreunion\\0.5.6\\microsoft.projectreunion.0.5.6.nupkg.sha512",
+    "C:\\Users\\nikki\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.5.6\\microsoft.projectreunion.dwrite.0.5.6.nupkg.sha512",
+    "C:\\Users\\nikki\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.5.6\\microsoft.projectreunion.foundation.0.5.6.nupkg.sha512",
+    "C:\\Users\\nikki\\.nuget\\packages\\microsoft.projectreunion.winui\\0.5.6\\microsoft.projectreunion.winui.0.5.6.nupkg.sha512"
+  ],
+  "logs": []
+}
